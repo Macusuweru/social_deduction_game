@@ -1,0 +1,2 @@
+# social_deduction_game
+This is a framework to perform nearly all of the logic necessary to play a social deduction game in the vein of Werewolf, Mafia, Town of Salem, or any other name this game is known by. This framework provides the tools necessary to store and manage player information, game information, and logic required by the game. It is written in R. I understand that this isn't necessarily the best language, but implementing future functions like special roles and teams will require a lot of logic that may be easier to perform in R.
